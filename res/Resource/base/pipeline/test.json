@@ -1,0 +1,11 @@
+{
+    "CustomA": {
+        "action": "Custom",
+        "custom_action": "A"
+    },
+    "CustomB": {
+        "action": "Custom",
+        "custom_action": "B"
+    },
+    "NoCustom": {}
+}
